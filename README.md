@@ -33,7 +33,7 @@ This project is now even simpler to set up!
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/Bookemon-Go.git
+    https://github.com/Chouhan705/Book-mon-GO.git
     ```
 
 2.  **Open in Android Studio:**
