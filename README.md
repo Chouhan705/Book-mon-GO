@@ -46,7 +46,7 @@ This project is now even simpler to set up!
 
 This project is proudly developed by:
 
--   **Aditya Chouhan** ([@aditya-chouhan-github]((https://github.com/Chouhan705)))
+-   **Aditya Chouhan** ([@aditya-chouhan-github](https://github.com/your-username))
 -   **Aditya Sharma** ([@aditya-sharma-github](https://github.com/your-username))
 -   **Anurag Dubey** ([@anurag-dubey-github](https://github.com/your-username))
 -   **Aniket Yadav** ([@aniket-yadav-github](https://github.com/your-username))
